@@ -11,3 +11,9 @@ El programa debe calcular y mostrar el resultado de multiplicar entre sí los 10
 
 Ejercicio 4
 El programa debe pedir al usuario que ingrese un número. Luego, calcula el factorial de ese número, que es el resultado de multiplicar todos los números enteros positivos desde 1 hasta ese número. Si el usuario ingresa 5, el programa debe calcular 5 × 4 × 3 × 2 × 1 = 120. Finalmente, el programa muestra el resultado del factorial.
+
+Ejercicio 5
+El programa pide 10 números al usuario. Luego a través de una condicional se almacenan los numeros positivos, negativos y los 0, Con los numeros acumulados se calcula y muestra la media de los números positivos, la media de los negativos y cuántos ceros se ingresaron.
+
+Ejericcio 6
+El programa solicita al usuario un número entre 0 y 10. Si el número está en ese rango, muestra su tabla de multiplicar del 1 al 10 esto mediante el uso de un ciclo for, si el numero se encuentra fuera del rango del 1-10, muestra un mensaje de error.
